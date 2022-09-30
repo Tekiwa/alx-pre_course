@@ -1,1 +1,2 @@
--e#!/bin/bash\necho "Scho ol"
+#!/bin/bash
+School
